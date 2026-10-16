@@ -57,7 +57,7 @@ Install Python if it is not already installed on your computer.
 
 2. Clone the Repository
 
-git clone <your-repository-url>
+git clone <your-repository-url>https://github.com/Nasrinfathima-11/imageclarificationproject4.git
 
 Navigate to the project directory:
 

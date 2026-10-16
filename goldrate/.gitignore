@@ -1,3 +1,10 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
 Lib/
+# Python virtual environment in project root
+/Scripts/
+/Lib/
+/Include/
+/pyvenv.cfg
 
+# Gradio certificate and cache
+.gradio/
